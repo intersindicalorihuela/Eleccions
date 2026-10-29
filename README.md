@@ -1,2 +1,2 @@
-# Eleccions
-Calculador de Delegados Sindicales SanGVA
+# Elecciones
+Escrutinio Elecciones sindicales

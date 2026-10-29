@@ -1,0 +1,15 @@
+CÓMO ACTUALIZAR ELECCIONES EN LA WEB DE INTERSINDICAL
+
+1. Descarga y descomprime este ZIP en tu ordenador.
+2. Abre GitHub y entra en el repositorio intersindicalorihuela/Elecciones.
+3. Pulsa 'Add file' -> 'Upload files'.
+4. Arrastra TODOS los archivos y carpetas del ZIP (assets, index.html y el resto).
+5. Escribe un comentario breve (por ejemplo 'Acta provisional y censo editable') y pulsa 'Commit changes'.
+
+Cuando GitHub te pregunte, acepta sobrescribir los archivos que ya existen.
+Los archivos antiguos que sobren no molestan; no hace falta borrarlos.
+
+6. Espera 1-2 minutos y abre:
+   https://intersindicalorihuela.github.io/Elecciones/
+
+Si ves todavía la versión antigua, pulsa Ctrl + F5 para recargar la página.
